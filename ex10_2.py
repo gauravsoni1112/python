@@ -1,0 +1,1 @@
+print ''' gauav is fool '''
